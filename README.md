@@ -102,7 +102,7 @@ Implements the interactive command-line interface and coordinates the complete e
 Clone the repository:
 
 ```bash
-git clone https://github.com/PaulMBobby/Bmp_image_processor.git
+git clone https://github.com/PaulMBobby/cli-expense-tracker.git
 
 cd cli-expense-tracker
 ```
